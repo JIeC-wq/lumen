@@ -1,0 +1,2 @@
+<img src="logo.png" tab="photo" style="position:absolute;left:0px;right:0px;top:0px" width=400 height=400>
+<a href="https://discord.gg/47NpJ9ZPvg" class="nubex">Дискорд</a>
